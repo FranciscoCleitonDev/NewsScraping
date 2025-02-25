@@ -1,0 +1,2 @@
+# NewsScraping
+Projeto acadêmico
