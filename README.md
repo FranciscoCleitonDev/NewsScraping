@@ -64,5 +64,5 @@ docker run -p 5000:5000 news_scraping
 📝 Licença
 Este projeto está sob Unlicense, uma licença de software de domínio público. Ao utilizar a Unlicense, o autor do software renuncia a todos os direitos autorais e dedica o código à domínio público, permitindo que qualquer pessoa use, modifique e distribua o software sem restrições.
 
-👨‍💻 Desenvolvido por Francisco Cleiton
+👨‍💻 Desenvolvido por Francisco Cleiton   
 📌 Entre em contato: franciscocleitondev@gmail.com
