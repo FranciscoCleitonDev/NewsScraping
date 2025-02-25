@@ -1,6 +1,6 @@
 # 📚 Raspagem de Notícias
 
-> <i>NewsScraping</i> é um projeto acadêmico criado colocando para práticar o conteúdo teórico das matérias com proposito de fixação de conteúdo utilizando um ecossistema vasto de tecnologias e possibilidades.
+> <i>NewsScraping</i> é um projeto acadêmico criado para colocar em prática o conteúdo teórico das matérias com proposito de fixação de conteúdo utilizando um ecossistema vasto de tecnologias e possibilidades.
 
 ## 🚀 Tecnologias Utilizadas
 
